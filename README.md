@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pablo-alves92
-- 👀 I’m interested in become a front-end developer
+- 👀 I’m interested in become a back-end developer
 - 🌱 I’m currently learning analysis and systems development
 - 📫 How to reach me pablo9225@gmail.com 
 <!---
