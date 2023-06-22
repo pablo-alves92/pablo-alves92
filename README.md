@@ -1,6 +1,6 @@
 ## Olá, eu sou o Pablo Alves!
 - 👀 Estou interessado em me tornar desenvolvedor back-end.
-- 📖 Graduando em Análise e Desenvolvimento de Sistemas na PUC - Minas.
+- 📖 Graduando em Análise e Desenvolvimento de Sistemas na PUC - Minas 3º período.
 - 🌱 Atualmente estou aprendendo Phyton e Django.
 - 📫 Como me encontrar: pablo9225@gmail.com
 
